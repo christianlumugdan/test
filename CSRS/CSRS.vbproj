@@ -1,0 +1,870 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E9DA7B9-347F-450F-B580-081EE5ED5C53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CSRS.My.MyApplication</StartupObject>
+    <RootNamespace>CSRS</RootNamespace>
+    <AssemblyName>CSRS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CSRS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CSRS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Clockwork">
+      <HintPath>..\packages\Clockwork.2.0.0\lib\net45\Clockwork.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForms\Admin_EditMovies.Designer.vb">
+      <DependentUpon>Admin_EditMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_EditMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_LoadRFID.Designer.vb">
+      <DependentUpon>Admin_LoadRFID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_LoadRFID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_TimeLogs.Designer.vb">
+      <DependentUpon>Admin_TimeLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_TimeLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewCustomers.Designer.vb">
+      <DependentUpon>Admin_viewCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_addMovies.Designer.vb">
+      <DependentUpon>Admin_addMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_addMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_editStaff.Designer.vb">
+      <DependentUpon>Admin_editStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_editStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_adminLogs.Designer.vb">
+      <DependentUpon>Admin_adminLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_adminLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_staffLogs.Designer.vb">
+      <DependentUpon>Admin_staffLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_staffLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewMovies.Designer.vb">
+      <DependentUpon>Admin_viewMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\NoBalance.Designer.vb">
+      <DependentUpon>NoBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\NoBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Statistics.Designer.vb">
+      <DependentUpon>Statistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Statistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CGL_RMEDataSet.vb">
+      <DependentUpon>CGL_RMEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OriginalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OriginalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\AdminChangepw.Designer.vb">
+      <DependentUpon>AdminChangepw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\AdminChangepw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\InputLoad.Designer.vb">
+      <DependentUpon>InputLoad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\InputLoad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\InvalidCredentials.Designer.vb">
+      <DependentUpon>InvalidCredentials.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\InvalidCredentials.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\ForgotPass.Designer.vb">
+      <DependentUpon>ForgotPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\ForgotPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\InputFields.Designer.vb">
+      <DependentUpon>InputFields.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\InputFields.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\SalesDateLimit.Designer.vb">
+      <DependentUpon>SalesDateLimit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\SalesDateLimit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\StaffChangepw.Designer.vb">
+      <DependentUpon>StaffChangepw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\StaffChangepw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_staffLogs.Designer.vb">
+      <DependentUpon>Staff_staffLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_staffLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewMovies.Designer.vb">
+      <DependentUpon>Staff_viewMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_settings.Designer.vb">
+      <DependentUpon>Staff_settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\CustomersReport.Designer.vb">
+      <DependentUpon>CustomersReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\CustomersReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\ReportFilter.Designer.vb">
+      <DependentUpon>ReportFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\ReportFilter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\VarAbles.vb" />
+    <Compile Include="CGL_RMEDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CGL_RMEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CGL_RMEDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CGL_RMEDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\AddMoviefrm.Designer.vb">
+      <DependentUpon>AddMoviefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\AddMoviefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\RFIDTapForm2.Designer.vb">
+      <DependentUpon>RFIDTapForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\RFIDTapForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Load_RFIDTapForm.Designer.vb">
+      <DependentUpon>Load_RFIDTapForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Load_RFIDTapForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\EditMoviefrm.Designer.vb">
+      <DependentUpon>EditMoviefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\EditMoviefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\LoadTapRFID.Designer.vb">
+      <DependentUpon>LoadTapRFID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\LoadTapRFID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Adminfrm.Designer.vb">
+      <DependentUpon>Adminfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Adminfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_AddCustomer.Designer.vb">
+      <DependentUpon>Admin_AddCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_AddCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_deleteAdmin.Designer.vb">
+      <DependentUpon>Admin_deleteAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_deleteAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_addAdmin.Designer.vb">
+      <DependentUpon>Admin_addAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_addAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_editAdmin.Designer.vb">
+      <DependentUpon>Admin_editAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_editAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_makePasscode.Designer.vb">
+      <DependentUpon>Admin_makePasscode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_makePasscode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_passcode.Designer.vb">
+      <DependentUpon>Admin_passcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_passcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Confirmationfrm.Designer.vb">
+      <DependentUpon>Confirmationfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Confirmationfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_deleteStaff.Designer.vb">
+      <DependentUpon>Admin_deleteStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_deleteStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewAdmin.Designer.vb">
+      <DependentUpon>Admin_viewAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewStaff.Designer.vb">
+      <DependentUpon>Admin_viewStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_viewStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_Changepw.Designer.vb">
+      <DependentUpon>Admin_Changepw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_Changepw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForms\Admin_settings.Designer.vb">
+      <DependentUpon>Admin_settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForms\Admin_settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\MoviesReport.Designer.vb">
+      <DependentUpon>MoviesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\MoviesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\RFIDTapForm.Designer.vb">
+      <DependentUpon>RFIDTapForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\RFIDTapForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\SalesReport.Designer.vb">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\SalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\SuccessfulFrm.Designer.vb">
+      <DependentUpon>SuccessfulFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\SuccessfulFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewStaff.Designer.vb">
+      <DependentUpon>Staff_viewStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_AddMoviefrm.Designer.vb">
+      <DependentUpon>Staff_AddMoviefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_AddMoviefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_EditMoviefrm.Designer.vb">
+      <DependentUpon>Staff_EditMoviefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_EditMoviefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_EditMovies.Designer.vb">
+      <DependentUpon>Staff_EditMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_EditMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_addMovies.Designer.vb">
+      <DependentUpon>Staff_addMovies.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_addMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_passcode.Designer.vb">
+      <DependentUpon>Staff_passcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_passcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_RFIDTapForm.Designer.vb">
+      <DependentUpon>Staff_RFIDTapForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_RFIDTapForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_LoadTapRFID.Designer.vb">
+      <DependentUpon>Staff_LoadTapRFID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_LoadTapRFID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewCustomers.Designer.vb">
+      <DependentUpon>Staff_viewCustomers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_viewCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_LoadRFID.Designer.vb">
+      <DependentUpon>Staff_LoadRFID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_LoadRFID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_AddCustomer.Designer.vb">
+      <DependentUpon>Staff_AddCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_AddCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_Changepw.Designer.vb">
+      <DependentUpon>Staff_Changepw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_Changepw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\PasswordInfo.Designer.vb">
+      <DependentUpon>PasswordInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\PasswordInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Stafffrm.Designer.vb">
+      <DependentUpon>Stafffrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Stafffrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_makePasscode.Designer.vb">
+      <DependentUpon>Staff_makePasscode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_makePasscode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForms\Staff_addStaff.Designer.vb">
+      <DependentUpon>Staff_addStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_addStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\Mainfrm.Designer.vb">
+      <DependentUpon>Mainfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\Mainfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideForms\LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SideForms\LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StaffForms\Staff_SuccessfulFrm.Designer.vb">
+      <DependentUpon>Staff_SuccessfulFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StaffForms\Staff_SuccessfulFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_CGL_RMEDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_CGL_RMEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_CGL_RMEDataSet.vb">
+      <DependentUpon>_CGL_RMEDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminForms\Adminfrm.resx">
+      <DependentUpon>Adminfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_AddCustomer.resx">
+      <DependentUpon>Admin_AddCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_deleteAdmin.resx">
+      <DependentUpon>Admin_deleteAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_addAdmin.resx">
+      <DependentUpon>Admin_addAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_editAdmin.resx">
+      <DependentUpon>Admin_editAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_Changepw.resx">
+      <DependentUpon>Admin_Changepw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_EditMovies.resx">
+      <DependentUpon>Admin_EditMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_makePasscode.resx">
+      <DependentUpon>Admin_makePasscode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_passcode.resx">
+      <DependentUpon>Admin_passcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_LoadRFID.resx">
+      <DependentUpon>Admin_LoadRFID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_TimeLogs.resx">
+      <DependentUpon>Admin_TimeLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_viewCustomers.resx">
+      <DependentUpon>Admin_viewCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_addMovies.resx">
+      <DependentUpon>Admin_addMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_editStaff.resx">
+      <DependentUpon>Admin_editStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_adminLogs.resx">
+      <DependentUpon>Admin_adminLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_staffLogs.resx">
+      <DependentUpon>Admin_staffLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_viewMovies.resx">
+      <DependentUpon>Admin_viewMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\NoBalance.resx">
+      <DependentUpon>NoBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Statistics.resx">
+      <DependentUpon>Statistics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\AdminChangepw.resx">
+      <DependentUpon>AdminChangepw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\InputLoad.resx">
+      <DependentUpon>InputLoad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\InvalidCredentials.resx">
+      <DependentUpon>InvalidCredentials.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\ForgotPass.resx">
+      <DependentUpon>ForgotPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\InputFields.resx">
+      <DependentUpon>InputFields.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\SalesDateLimit.resx">
+      <DependentUpon>SalesDateLimit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\StaffChangepw.resx">
+      <DependentUpon>StaffChangepw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_staffLogs.resx">
+      <DependentUpon>Staff_staffLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_viewMovies.resx">
+      <DependentUpon>Staff_viewMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_settings.resx">
+      <DependentUpon>Staff_settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\CustomerReport.rdlc" />
+    <EmbeddedResource Include="AdminForms\CustomersReport.resx">
+      <DependentUpon>CustomersReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\ReportFilter.resx">
+      <DependentUpon>ReportFilter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\AddMoviefrm.resx">
+      <DependentUpon>AddMoviefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\RFIDTapForm2.resx">
+      <DependentUpon>RFIDTapForm2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Load_RFIDTapForm.resx">
+      <DependentUpon>Load_RFIDTapForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\EditMoviefrm.resx">
+      <DependentUpon>EditMoviefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\LoadTapRFID.resx">
+      <DependentUpon>LoadTapRFID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Confirmationfrm.resx">
+      <DependentUpon>Confirmationfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_deleteStaff.resx">
+      <DependentUpon>Admin_deleteStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_viewAdmin.resx">
+      <DependentUpon>Admin_viewAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_viewStaff.resx">
+      <DependentUpon>Admin_viewStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForms\Admin_settings.resx">
+      <DependentUpon>Admin_settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\MoviesReport.rdlc" />
+    <EmbeddedResource Include="SideForms\MoviesReport.resx">
+      <DependentUpon>MoviesReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\RFIDTapForm.resx">
+      <DependentUpon>RFIDTapForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\SalesReport.rdlc" />
+    <EmbeddedResource Include="SideForms\SalesReport.resx">
+      <DependentUpon>SalesReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\SuccessfulFrm.resx">
+      <DependentUpon>SuccessfulFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_viewStaff.resx">
+      <DependentUpon>Staff_viewStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_AddMoviefrm.resx">
+      <DependentUpon>Staff_AddMoviefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_EditMoviefrm.resx">
+      <DependentUpon>Staff_EditMoviefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_EditMovies.resx">
+      <DependentUpon>Staff_EditMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_addMovies.resx">
+      <DependentUpon>Staff_addMovies.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_passcode.resx">
+      <DependentUpon>Staff_passcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_RFIDTapForm.resx">
+      <DependentUpon>Staff_RFIDTapForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_LoadTapRFID.resx">
+      <DependentUpon>Staff_LoadTapRFID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_viewCustomers.resx">
+      <DependentUpon>Staff_viewCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_LoadRFID.resx">
+      <DependentUpon>Staff_LoadRFID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_AddCustomer.resx">
+      <DependentUpon>Staff_AddCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_Changepw.resx">
+      <DependentUpon>Staff_Changepw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\PasswordInfo.resx">
+      <DependentUpon>PasswordInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Stafffrm.resx">
+      <DependentUpon>Stafffrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_makePasscode.resx">
+      <DependentUpon>Staff_makePasscode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_addStaff.resx">
+      <DependentUpon>Staff_addStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\Mainfrm.resx">
+      <DependentUpon>Mainfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideForms\LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffForms\Staff_SuccessfulFrm.resx">
+      <DependentUpon>Staff_SuccessfulFrm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CGL_RMEDataSet.xsc">
+      <DependentUpon>CGL_RMEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CGL_RMEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CGL_RMEDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CGL_RMEDataSet.xss">
+      <DependentUpon>CGL_RMEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CGL_RMEDataSet2.xsc">
+      <DependentUpon>CGL_RMEDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CGL_RMEDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CGL_RMEDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CGL_RMEDataSet2.xss">
+      <DependentUpon>CGL_RMEDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OriginalDataSet.xsc">
+      <DependentUpon>OriginalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OriginalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OriginalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OriginalDataSet.xss">
+      <DependentUpon>OriginalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="_CGL_RMEDataSet.xsc">
+      <DependentUpon>_CGL_RMEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_CGL_RMEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_CGL_RMEDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_CGL_RMEDataSet.xss">
+      <DependentUpon>_CGL_RMEDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

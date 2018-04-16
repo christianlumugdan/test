@@ -1,0 +1,316 @@
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe.config
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\Interop.WMPLib.dll
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.ResolveComReference.cache
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.exe
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.xml
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.pdb
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.pdb
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.xml
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\Interop.WMPLib.dll
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbprojResolveAssemblyReference.cache
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Adminfrm.resources
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Mainfrm.resources
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Splashscreen.resources
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Loginfrm.resources
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Resources.resources
+C:\Users\D'ROSE\Desktop\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.ResolveComReference.cache
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Adminfrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_AddCustomer.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_AddMovies.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_deleteAdmin.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_addAdmin.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_editAdmin.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_Changepw.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_makePasscode.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_passcode.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_LoadRFID.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.LoadTapRFID.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.AddMoviefrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Confirmationfrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_deleteStaff.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewAdmin.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewStaff.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_settings.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.RFIDTapForm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.SuccessfulFrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_Changepw.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.PasswordInfo.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Stafffrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_makePasscode.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_addStaff.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Mainfrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Splashscreen.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Loginfrm.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Resources.resources
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe.config
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.pdb
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.xml
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.exe
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.xml
+C:\Users\Christian\Desktop\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe.config
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\Clockwork.dll
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\Clockwork.pdb
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS\CSRS\bin\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.ResolveComReference.cache
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Adminfrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_AddCustomer.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_deleteAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_addAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_editAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_Changepw.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_EditMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_makePasscode.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_passcode.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_LoadRFID.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewCustomers.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_addMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.CustomersReport.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Load_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Form1.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Form2.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Confirmationfrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_deleteStaff.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewStaff.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_settings.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.SalesReport.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_EditMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_addMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_passcode.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_viewCustomers.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_LoadRFID.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_AddCustomer.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_Changepw.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.PasswordInfo.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Stafffrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_makePasscode.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_addStaff.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Mainfrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Splashscreen.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Loginfrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Resources.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbproj.GenerateResource.Cache
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\RdlCompile.cache
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\RdlCompile.compiled
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.MoviesReport.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.RFIDTapForm2.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_editStaff.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.ReportFilter.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_viewStaff.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_TimeLogs.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_adminLogs.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_staffLogs.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.vbprojResolveAssemblyReference.cache
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Admin_viewMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_settings.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_viewMovies.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Staff_staffLogs.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.ForgotPass.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.AdminChangepw.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.StaffChangepw.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.InputFields.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.InvalidCredentials.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.SalesDateLimit.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.InputLoad.resources
+D:\Thesis\CSRS THESIS\CSRS\CSRS\obj\Debug\CSRS.Statistics.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\CSRS.exe.config
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.vbproj.ResolveComReference.cache
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\Clockwork.dll
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\Clockwork.pdb
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\bin\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.vbprojResolveAssemblyReference.cache
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Adminfrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_AddCustomer.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_deleteAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_addAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_editAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_Changepw.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_EditMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_makePasscode.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_passcode.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_LoadRFID.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_TimeLogs.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_viewCustomers.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_addMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_editStaff.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_adminLogs.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_staffLogs.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_viewMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Statistics.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.AdminChangepw.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.InputLoad.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.InvalidCredentials.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.ForgotPass.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.InputFields.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.SalesDateLimit.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.StaffChangepw.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_staffLogs.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_viewMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_settings.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.CustomersReport.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.ReportFilter.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.RFIDTapForm2.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Load_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Form1.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Form2.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Confirmationfrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_deleteStaff.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_viewAdmin.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_viewStaff.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Admin_settings.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.MoviesReport.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.SalesReport.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_viewStaff.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_EditMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_addMovies.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_passcode.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_viewCustomers.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_LoadRFID.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_AddCustomer.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_Changepw.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.PasswordInfo.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Stafffrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_makePasscode.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_addStaff.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Mainfrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Splashscreen.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Loginfrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Resources.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.Staff_SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\CSRS.vbproj.GenerateResource.Cache
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\RdlCompile.cache
+D:\Thesis\CSRS THESIS\CSRS - Copy (11) - Copy\CSRS\obj\Debug\RdlCompile.compiled
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\CSRS.exe.config
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.vbproj.ResolveComReference.cache
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\CSRS.exe
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\CSRS.pdb
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\CSRS.xml
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\Clockwork.dll
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\Clockwork.pdb
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\Interop.WMPLib.dll
+D:\Thesis\CSRS THESIS\Final\CSRS\bin\Debug\AxInterop.WMPLib.dll
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Adminfrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_AddCustomer.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_deleteAdmin.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_addAdmin.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_editAdmin.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_Changepw.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_EditMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_makePasscode.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_passcode.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_LoadRFID.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_TimeLogs.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_viewCustomers.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_addMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_editStaff.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_adminLogs.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_staffLogs.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_viewMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Statistics.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.AdminChangepw.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.InputLoad.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.InvalidCredentials.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.ForgotPass.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.InputFields.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.SalesDateLimit.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.StaffChangepw.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_staffLogs.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_viewMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_settings.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.CustomersReport.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.ReportFilter.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.RFIDTapForm2.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Load_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Form1.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Form2.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Confirmationfrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_deleteStaff.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_viewAdmin.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_viewStaff.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Admin_settings.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.MoviesReport.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.SalesReport.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_viewStaff.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_AddMoviefrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_EditMoviefrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_EditMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_addMovies.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_passcode.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_RFIDTapForm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_LoadTapRFID.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_viewCustomers.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_LoadRFID.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_AddCustomer.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_Changepw.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.PasswordInfo.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Stafffrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_makePasscode.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_addStaff.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Mainfrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Splashscreen.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Loginfrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Resources.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.Staff_SuccessfulFrm.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.vbproj.GenerateResource.Cache
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\RdlCompile.cache
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\RdlCompile.compiled
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.NoBalance.resources
+D:\Thesis\CSRS THESIS\Final\CSRS\obj\Debug\CSRS.vbprojResolveAssemblyReference.cache

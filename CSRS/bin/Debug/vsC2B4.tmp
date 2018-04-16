@@ -1,0 +1,548 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSRS
+</name>
+</assembly>
+<members>
+<member name="T:CSRS._CGL_RMEDataSet.AdminLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.AdminsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.MoviesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SeatsAvailabilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.TicketsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.AdminLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.AdminsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.MoviesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SeatsAvailabilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.TicketsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.AdminLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.AdminsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.MoviesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SalesReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.SeatsAvailabilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.StaffsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet.TicketsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.AdminLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.AdminsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.MoviesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.SalesReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.SeatsAvailabilityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.StaffLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.StaffsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.TicketsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CSRS._CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CSRS._CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CSRS._CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateAll(CSRS._CGL_RMEDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CSRS._CGL_RMEDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.MoviesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SeatsAvailabilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.MoviesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SeatsAvailabilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.AdminsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.MoviesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.SeatsAvailabilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2.StaffsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.AdminLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.AdminsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.MoviesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.SeatsAvailabilityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.StaffLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.StaffsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(CSRS.CGL_RMEDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(CSRS.CGL_RMEDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(CSRS.CGL_RMEDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.UpdateAll(CSRS.CGL_RMEDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.MoviesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SeatsAvailabilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.MoviesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SeatsAvailabilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.AdminsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.MoviesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.SeatsAvailabilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet.StaffsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.AdminLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.AdminsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.MoviesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.SalesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.SeatsAvailabilityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.StaffLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.StaffsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CSRS.CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CSRS.CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CSRS.CGL_RMEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateAll(CSRS.CGL_RMEDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CSRS.CGL_RMEDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CSRS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CSRS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CSRS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
